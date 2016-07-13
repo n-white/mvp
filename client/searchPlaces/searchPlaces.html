@@ -1,0 +1,21 @@
+<div>
+
+	<div class="col-lg-6 col-lg-offset-3">
+		<h1 class="col-lg-offset-3">search for a place</h1>
+    <div class="input-group">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" ng-click="getPlaces(searchTerm)">Go!</button>
+      </span>
+      <input type="text" class="form-control" placeholder="enter a keyword" ng-model="searchTerm">
+    </div>
+  </div>
+
+  <br>
+  <br>
+  <br>
+  
+  <ul class="list-group">
+  	<li class="list-group-item col-lg-6 col-lg-offset-3" ng-repeat="place in placesArray.data" ng-click="updateId(place.id)">{{ place.name }}</li>
+  </ul>
+
+</div>

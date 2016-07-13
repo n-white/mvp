@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Restaurant Review Cloud.
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > We read the reviews for you.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  >  This app will generate a simple word cloud of the reviews customers have written for any given restaurant.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Picking out a restaurant for dinner can be tedious. You probably rely on the star rating and location to make your decision. However, the star rating doesn't tell you much about the restaurant itself. The written reviews can be more telling, but it's tiring to scan through them.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > With this app, you can plug in the name of the restaurant and it will give you a word cloud of the reviews so you can get a quick idea of what the restaurant has to offer.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > I love this app and I use it all the time.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Just plug in the name of the restaurant or the type of food you're in the mood for.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > I no longer waste time scanning reviews for a restaurant! I know what it's all about from one simple graphic.
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Why are you still wasting time reading this? Go ahead and try it for yourself.
